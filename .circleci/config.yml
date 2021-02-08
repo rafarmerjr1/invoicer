@@ -2,7 +2,7 @@ version: 2
 jobs:
  build:
   # Variable expansion in working_directory not supported at this time
-  #test change
+  #test change2
   # You will need to modify the code below to reflect your github account/repo setup
   working_directory: /go/src/github.com/rafarmerjr1/invoicer
   docker:
